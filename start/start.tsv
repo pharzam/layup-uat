@@ -16,4 +16,4 @@ pin.tree	8ffb250afd584da8b418bc220fb6d72e802924ce	run
 pin.time	2026-10-08T17:34:57Z	run
 issue.intake	1	forge
 issue.control	2	forge
-watch	—	run
+watch	not-confirmed	run
